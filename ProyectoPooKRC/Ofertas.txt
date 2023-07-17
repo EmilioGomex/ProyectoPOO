@@ -1,0 +1,10 @@
+AAA458|28000.0|eogola01@gmail.com
+AAA458|29000.0|gomexe47@gmail.com
+TAR123|25000.0|gomexemilio003@gmail.com
+BBB123|38000.0|eogola01@gmail.com
+ABC123|25000.0|eogola01@gmail.com
+ABC123|24000.0|soinfor1@gmail.com
+TAR123|26000.0|soinfor2@gmail.com
+ABC123|45000.0|soinfor1@gmail.com
+CCC123|50000.0|soinfor1@gmail.com
+ABC123|26000.0|soinfor2@gmail.com

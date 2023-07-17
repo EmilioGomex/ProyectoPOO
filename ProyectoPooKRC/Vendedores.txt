@@ -1,0 +1,5 @@
+Emilio Yeshua|Gomez Lavayen|egomez10b@gmail.com|Espol|7faaf31cd1784fb311dfe0f37f231d131d8fed7c73a110bf899e393386cd0c2c
+Kruger Ivan|Ronquillo Coloma|argenysguale8@gmail.com|AP|b460b1982188f11d175f60ed670027e1afdd16558919fe47023ecd38329e0b7f
+Jesse Argenys|Guale Salazar|eogola03@gmail.com|Espol|b460b1982188f11d175f60ed670027e1afdd16558919fe47023ecd38329e0b7f
+Cristian Pepe|Sola Tola|eogola04@gmail.com|FE|b460b1982188f11d175f60ed670027e1afdd16558919fe47023ecd38329e0b7f
+Juan Dios|Rubio Mata|gomexemilio@gmail.com|Espol|b460b1982188f11d175f60ed670027e1afdd16558919fe47023ecd38329e0b7f
